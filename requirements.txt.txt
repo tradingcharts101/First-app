@@ -1,0 +1,6 @@
+streamlit
+pandas
+conda install openpyxl
+requests
+beautifulsoup4
+anthropic
