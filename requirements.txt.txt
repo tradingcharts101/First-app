@@ -1,6 +1,6 @@
 streamlit
-pandas
-conda and pip install openpyxl
+pandas 
+import openpyxl
 requests
 beautifulsoup4
 anthropic
