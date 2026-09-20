@@ -1,2 +1,2 @@
-#Stock Screening-app
+Stock Screening-app
 Hard Work To Smart Work
