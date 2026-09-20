@@ -1,2 +1,2 @@
-# First-app
-Watchlist of stock
+#Stock Screening-app
+Hard Work To Smart Work
